@@ -1,4 +1,3 @@
-import mongoose from 'mongoose';
 import momgoose from 'mongoose'
 import { configDotenv } from 'dotenv';
 configDotenv()
