@@ -1,4 +1,4 @@
-import momgoose from 'mongoose'
+import mongoose from 'mongoose'
 import { configDotenv } from 'dotenv';
 configDotenv()
 const connectDB =async()=>{
